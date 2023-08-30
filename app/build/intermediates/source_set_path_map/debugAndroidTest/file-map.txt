@@ -1,0 +1,6 @@
+com.example.hotelvendor.test.app-annotation-experimental-1.3.0-0 C:\Users\Hamza Shaikh\.gradle\caches\transforms-3\5c0f9d1517fcf51e9d3b7e9253a65e89\transformed\annotation-experimental-1.3.0\res
+com.example.hotelvendor.test.app-core-1.5.0-1 C:\Users\Hamza Shaikh\.gradle\caches\transforms-3\b78381232879184c261fb0b775b1fce1\transformed\core-1.5.0\res
+com.example.hotelvendor.test.app-androidTest-2 E:\Flutter\Android s tudio\Hotelvendor\app\build\generated\res\resValues\androidTest\debug
+com.example.hotelvendor.test.app-mergeDebugAndroidTestResources-3 E:\Flutter\Android s tudio\Hotelvendor\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.hotelvendor.test.app-mergeDebugAndroidTestResources-4 E:\Flutter\Android s tudio\Hotelvendor\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.hotelvendor.test.app-merged_res-5 E:\Flutter\Android s tudio\Hotelvendor\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">202856767932-s1odpir81nmqmeru6q6rukj3g6a5cgh6.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://railfood-7716c-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">202856767932</string>
+    <string name="google_api_key" translatable="false">AIzaSyA5vP_6fSDvHVgHuG6DsTWKVw_8bU8lv28</string>
+    <string name="google_app_id" translatable="false">1:202856767932:android:7fc6cda1301b63dc420bb9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA5vP_6fSDvHVgHuG6DsTWKVw_8bU8lv28</string>
+    <string name="google_storage_bucket" translatable="false">railfood-7716c.appspot.com</string>
+    <string name="project_id" translatable="false">railfood-7716c</string>
+</resources>
